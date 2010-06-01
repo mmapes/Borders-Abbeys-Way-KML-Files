@@ -2134,7 +2134,7 @@
 			<Point>
 				<coordinates>-2.432752516056034,55.5957789346029,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.747 , -2 25.965</description></Placemark>
 		<Placemark>
 			<name>k2</name>
 			<LookAt>
@@ -2151,7 +2151,7 @@
 			<Point>
 				<coordinates>-2.434417570351305,55.59472644661216,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.684 , -2 26.065</description></Placemark>
 		<Placemark>
 			<name>k3</name>
 			<LookAt>
@@ -2168,7 +2168,7 @@
 			<Point>
 				<coordinates>-2.445359050785104,55.59441160332224,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.665 , -2 26.722</description></Placemark>
 		<Placemark>
 			<name>k4</name>
 			<LookAt>
@@ -2185,14 +2185,15 @@
 			<Point>
 				<coordinates>-2.445890015650669,55.59452914769473,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.672 , -2 26.753</description></Placemark>
 		<Placemark>
 			<name>k5?</name>
 			<description>cross the wall on the left by a stile? Is this the place?
 
 In a further 250
 metres, cross the wall on the left by a stile
-and go down steps to the riverside path.</description>
+and go down steps to the riverside path.
+55 35.775 , -2 26.895</description>
 			<LookAt>
 				<longitude>-2.447426581014276</longitude>
 				<latitude>55.59532179018324</latitude>
@@ -2224,7 +2225,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.448523865658093,55.59619641231389,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.772 , -2 26.911</description></Placemark>
 		<Placemark>
 			<name>k7</name>
 			<LookAt>
@@ -2241,7 +2242,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.449016032987095,55.59661820648812,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.797 , -2 26.941</description></Placemark>
 		<Placemark>
 			<name>k8</name>
 			<LookAt>
@@ -2258,7 +2259,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.450380432467601,55.59769045933348,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.861 , -2 27.023</description></Placemark>
 		<Placemark>
 			<name>k9</name>
 			<LookAt>
@@ -2275,7 +2276,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.453076691902631,55.5982146234682,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.893 , -2 27.185</description></Placemark>
 		<Placemark>
 			<name>k10</name>
 			<LookAt>
@@ -2292,7 +2293,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.455168223914535,55.59691171331896,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.815 , -2 27.31</description></Placemark>
 		<Placemark>
 			<name>k11</name>
 			<LookAt>
@@ -2309,7 +2310,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.456107877361546,55.59576005441258,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.746 , -2 27.366</description></Placemark>
 		<Placemark>
 			<name>k12</name>
 			<LookAt>
@@ -2326,7 +2327,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.456848194820372,55.59472955579063,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.684 , -2 27.411</description></Placemark>
 		<Placemark>
 			<name>k13</name>
 			<LookAt>
@@ -2343,7 +2344,7 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.457266699958267,55.59365342459111,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.619 , -2 27.436</description></Placemark>
 		<Placemark>
 			<name>k16</name>
 			<LookAt>
@@ -2360,14 +2361,15 @@ and go down steps to the riverside path.</description>
 			<Point>
 				<coordinates>-2.464390179002343,55.57880096744223,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.728 , -2 27.863</description></Placemark>
 		<Placemark>
 			<name>k17</name>
 			<description>The
 path eventually leaves the river to climb
 a bank and continue along a field edge,
 giving a good view of Heiton Mill across
-the river.</description>
+the river.
+55 34.723 , -2 27.888</description>
 			<LookAt>
 				<longitude>-2.46442609164743</longitude>
 				<latitude>55.57874135921017</latitude>
@@ -2399,7 +2401,7 @@ the river.</description>
 			<Point>
 				<coordinates>-2.468145720750337,55.57715090004763,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.629 , -2 28.089</description></Placemark>
 		<Placemark>
 			<name>k19</name>
 			<LookAt>
@@ -2416,7 +2418,7 @@ the river.</description>
 			<Point>
 				<coordinates>-2.470592008084329,55.57630058786999,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.578 , -2 28.236</description></Placemark>
 		<Placemark>
 			<name>k20</name>
 			<LookAt>
@@ -2433,7 +2435,7 @@ the river.</description>
 			<Point>
 				<coordinates>-2.471852067773799,55.57493377372042,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.496 , -2 28.311</description></Placemark>
 		<Placemark>
 			<name>k21</name>
 			<LookAt>
@@ -2450,7 +2452,7 @@ the river.</description>
 			<Point>
 				<coordinates>-2.470699957905361,55.5734282699387,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.406 , -2 28.242</description></Placemark>
 		<Placemark>
 			<name>k22</name>
 			<LookAt>
@@ -2467,12 +2469,13 @@ the river.</description>
 			<Point>
 				<coordinates>-2.475679272416602,55.56939705841947,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.164 , -2 28.541</description></Placemark>
 		<Placemark>
 			<name>k23</name>
 			<description>The path goes left, down a lane past a
 furniture workshop, and back to the river
-to turn right under the viaduct.</description>
+to turn right under the viaduct.
+55 34.147 , -2 28.556</description>
 			<LookAt>
 				<longitude>-2.475597287413146</longitude>
 				<latitude>55.56898838936206</latitude>
@@ -2504,7 +2507,7 @@ to turn right under the viaduct.</description>
 			<Point>
 				<coordinates>-2.475892153248754,55.56880736723812,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.128 , -2 28.554</description></Placemark>
 		<Placemark>
 			<name>k25</name>
 			<LookAt>
@@ -2521,7 +2524,7 @@ to turn right under the viaduct.</description>
 			<Point>
 				<coordinates>-2.475978759171148,55.56833125334772,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.1 , -2 28.559</description></Placemark>
 		<Placemark>
 			<name>k26</name>
 			<LookAt>
@@ -2538,7 +2541,7 @@ to turn right under the viaduct.</description>
 			<Point>
 				<coordinates>-2.475774919799776,55.56821786509219,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.093 , -2 28.546</description></Placemark>
 		<Placemark>
 			<name>k27</name>
 			<LookAt>
@@ -2555,7 +2558,7 @@ to turn right under the viaduct.</description>
 			<Point>
 				<coordinates>-2.474327691706111,55.56795891774176,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.078 , -2 28.46</description></Placemark>
 		<Placemark>
 			<name>k28</name>
 			<LookAt>
@@ -2572,7 +2575,7 @@ to turn right under the viaduct.</description>
 			<Point>
 				<coordinates>-2.474162810895446,55.56773035695275,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.064 , -2 28.45</description></Placemark>
 		<Placemark>
 			<name>k29</name>
 			<description>The path goes left, down a lane past a
@@ -2587,7 +2590,8 @@ remains of Wallace’s Tower, a 16th century
 stronghold of the Ker family. A bridge is
 suspended from the viaduct to give access
 to the east bank of the river and up to the
-village of Heiton.</description>
+village of Heiton.
+55 33.972 , -2 28.485</description>
 			<LookAt>
 				<longitude>-2.474982707008808</longitude>
 				<latitude>55.5665242479554</latitude>
@@ -2619,7 +2623,7 @@ village of Heiton.</description>
 			<Point>
 				<coordinates>-2.476855942167038,55.56287434954557,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.772 , -2 28.611</description></Placemark>
 		<Placemark>
 			<name>k31</name>
 			<LookAt>
@@ -2636,7 +2640,7 @@ village of Heiton.</description>
 			<Point>
 				<coordinates>-2.477941453340736,55.56093592379338,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.656 , -2 28.676</description></Placemark>
 		<Placemark>
 			<name>k32</name>
 			<description>Across the river is Roxburghe
@@ -2648,7 +2652,8 @@ the Horse Cave. Legend has it that it was
 used as a hiding place for Bonnie Prince
 Charlie’s horses in 1745 while he and his
 Jacobite army were marching from Kelso
-to Jedburgh.</description>
+to Jedburgh.
+55 33.568 , -2 28.679</description>
 			<LookAt>
 				<longitude>-2.476251567441722</longitude>
 				<latitude>55.55887097009622</latitude>
@@ -2680,7 +2685,7 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.477006856757162,55.55802254344587,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.481 , -2 28.62</description></Placemark>
 		<Placemark>
 			<name>k34</name>
 			<LookAt>
@@ -2697,7 +2702,7 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.482176716110778,55.55531810447081,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.319 , -2 28.931</description></Placemark>
 		<Placemark>
 			<name>k35</name>
 			<LookAt>
@@ -2714,7 +2719,7 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.482691337731775,55.55264295781367,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.159 , -2 28.961</description></Placemark>
 		<Placemark>
 			<name>k35</name>
 			<LookAt>
@@ -2731,7 +2736,7 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.481115906460146,55.55193133752231,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.116 , -2 28.867</description></Placemark>
 		<Placemark>
 			<name>k36</name>
 			<LookAt>
@@ -2748,7 +2753,7 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.482982310670778,55.55075560314617,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 33.045 , -2 28.979</description></Placemark>
 		<Placemark>
 			<name>k37</name>
 			<LookAt>
@@ -2765,7 +2770,7 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.482923956251612,55.5498450320156,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.991 , -2 28.975</description></Placemark>
 		<Placemark>
 			<name>k38</name>
 			<LookAt>
@@ -2782,14 +2787,15 @@ to Jedburgh.</description>
 			<Point>
 				<coordinates>-2.481530577093976,55.54666917230498,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.8 , -2 28.892</description></Placemark>
 		<Placemark>
 			<name>k39</name>
 			<description>Turn left for a few metres, cross the road
 and continue up the track as signed.
 This track soon rejoins the old railway
 line, which is followed for more than 3
-kms,</description>
+kms,
+55 32.754 , -2 28.876</description>
 			<LookAt>
 				<longitude>-2.48124585495685</longitude>
 				<latitude>55.5458715578651</latitude>
@@ -2821,7 +2827,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.480506334387918,55.54588578414834,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.753 , -2 28.83</description></Placemark>
 		<Placemark>
 			<name>k41</name>
 			<LookAt>
@@ -2838,7 +2844,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.48038408038099,55.54094680283613,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.457 , -2 28.823</description></Placemark>
 		<Placemark>
 			<name>k42</name>
 			<LookAt>
@@ -2855,7 +2861,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.480284640362051,55.53541730472179,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.125 , -2 28.817</description></Placemark>
 		<Placemark>
 			<name>k43</name>
 			<LookAt>
@@ -2872,7 +2878,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.48331583687911,55.53134032411378,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 31.88 , -2 28.999</description></Placemark>
 		<Placemark>
 			<name>k44</name>
 			<LookAt>
@@ -2889,7 +2895,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.491095885483595,55.5267802671541,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 31.607 , -2 29.466</description></Placemark>
 		<Placemark>
 			<name>k45</name>
 			<LookAt>
@@ -2906,7 +2912,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.50387664022799,55.52486193243399,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 31.492 , -2 30.233</description></Placemark>
 		<Placemark>
 			<name>k46</name>
 			<LookAt>
@@ -2923,7 +2929,7 @@ kms,</description>
 			<Point>
 				<coordinates>-2.515927546038955,55.52278413086493,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 31.367 , -2 30.956</description></Placemark>
 		<Placemark>
 			<name>k47</name>
 			<LookAt>
@@ -2940,14 +2946,15 @@ kms,</description>
 			<Point>
 				<coordinates>-2.517470262923095,55.52236106964862,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 31.342 , -2 31.048</description></Placemark>
 		<Placemark>
 			<name>k48</name>
 			<description>On reaching the road at Nisbet, turn left
 and cross the river. Once across, turn
 immediately right down some steps
 to follow the flood bank and then the
-riverside for about 800 metres.</description>
+riverside for about 800 metres.
+55 31.268 , -2 30.983</description>
 			<LookAt>
 				<longitude>-2.516440362579917</longitude>
 				<latitude>55.52112698581308</latitude>
@@ -2979,7 +2986,7 @@ riverside for about 800 metres.</description>
 			<Point>
 				<coordinates>-2.522312894777903,55.51707354745421,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 31.024 , -2 31.339</description></Placemark>
 		<Placemark>
 			<name>k50</name>
 			<LookAt>
@@ -2996,7 +3003,7 @@ riverside for about 800 metres.</description>
 			<Point>
 				<coordinates>-2.526116221978023,55.51489625912599,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.894 , -2 31.567</description></Placemark>
 		<Placemark>
 			<name>k51</name>
 			<LookAt>
@@ -3013,7 +3020,7 @@ riverside for about 800 metres.</description>
 			<Point>
 				<coordinates>-2.529756782916065,55.51588264788376,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.953 , -2 31.785</description></Placemark>
 		<Placemark>
 			<name>k52</name>
 			<LookAt>
@@ -3030,7 +3037,7 @@ riverside for about 800 metres.</description>
 			<Point>
 				<coordinates>-2.533044332136749,55.51608789377755,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.965 , -2 31.983</description></Placemark>
 		<Placemark>
 			<name>k53</name>
 			<LookAt>
@@ -3047,12 +3054,13 @@ riverside for about 800 metres.</description>
 			<Point>
 				<coordinates>-2.536285307960434,55.51348617580617,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.809 , -2 32.177</description></Placemark>
 		<Placemark>
 			<name>k54</name>
 			<description>A stile leads you out to the A698 road
 (the Caddy Mann tearoom is about
-400 metres to your left here).</description>
+400 metres to your left here).
+55 30.578 , -2 32.216</description>
 			<LookAt>
 				<longitude>-2.535983819141454</longitude>
 				<latitude>55.50957950761482</latitude>
@@ -3077,7 +3085,8 @@ Way) to the start of Dere Street, a clear
 track leading straight uphill. The track
 is followed for about 800metres, before
 you leave it to turn right (St Cuthbert’s
-Way goes straight on).</description>
+Way goes straight on).
+55 30.522 , -2 32.264</description>
 			<LookAt>
 				<longitude>-2.53797804131535</longitude>
 				<latitude>55.50883356965296</latitude>
@@ -3102,7 +3111,8 @@ Way) to the start of Dere Street, a clear
 track leading straight uphill. The track
 is followed for about 800metres, before
 you leave it to turn right (St Cuthbert’s
-Way goes straight on).</description>
+Way goes straight on).
+55 30.477 , -2 32.233</description>
 			<LookAt>
 				<longitude>-2.537474178683272</longitude>
 				<latitude>55.50806780438874</latitude>
@@ -3134,7 +3144,7 @@ Way goes straight on).</description>
 			<Point>
 				<coordinates>-2.526453428868714,55.50309098623997,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.185 , -2 31.587</description></Placemark>
 		<Placemark>
 			<name>k58</name>
 			<LookAt>
@@ -3151,7 +3161,7 @@ Way goes straight on).</description>
 			<Point>
 				<coordinates>-2.526761134103396,55.50204949236751,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.123 , -2 31.606</description></Placemark>
 		<Placemark>
 			<name>k59</name>
 			<LookAt>
@@ -3168,7 +3178,7 @@ Way goes straight on).</description>
 			<Point>
 				<coordinates>-2.535046031768887,55.49675306316112,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.805 , -2 32.103</description></Placemark>
 		<Placemark>
 			<name>k60</name>
 			<LookAt>
@@ -3185,7 +3195,7 @@ Way goes straight on).</description>
 			<Point>
 				<coordinates>-2.539938140947223,55.49027526923211,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.417 , -2 32.396</description></Placemark>
 		<Placemark>
 			<name>k61</name>
 			<LookAt>
@@ -3202,7 +3212,7 @@ Way goes straight on).</description>
 			<Point>
 				<coordinates>-2.541167969278286,55.48861167784748,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.317 , -2 32.47</description></Placemark>
 		<Placemark>
 			<name>k62</name>
 			<LookAt>
@@ -3221,14 +3231,15 @@ Way goes straight on).</description>
 			<Point>
 				<coordinates>-2.541745702440647,55.4865601053854,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.194 , -2 32.505</description></Placemark>
 		<Placemark>
 			<name>k63</name>
 			<description>Go down a path
 which leads in turn to the access road
 at Mount Ulston. Follow this road
 downhill to join another road. Turn left
-and follow this road down to the A68.</description>
+and follow this road down to the A68.
+55 29.124 , -2 32.677</description>
 			<LookAt>
 				<longitude>-2.540860006410329</longitude>
 				<latitude>55.48759726635916</latitude>
@@ -3247,7 +3258,8 @@ and follow this road down to the A68.</description>
 		<Placemark>
 			<name>k64</name>
 			<description>Cross the road with care and take the
-riverside path which starts opposite.</description>
+riverside path which starts opposite.
+55 29.11 , -2 32.722</description>
 			<LookAt>
 				<longitude>-2.546007836124093</longitude>
 				<latitude>55.48513752290443</latitude>
@@ -3279,7 +3291,7 @@ riverside path which starts opposite.</description>
 			<Point>
 				<coordinates>-2.547075112001918,55.48492069055155,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.095 , -2 32.825</description></Placemark>
 		<Placemark>
 			<name>k66</name>
 			<LookAt>
@@ -3296,7 +3308,7 @@ riverside path which starts opposite.</description>
 			<Point>
 				<coordinates>-2.549443579456709,55.48397807410309,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.039 , -2 32.967</description></Placemark>
 		<Placemark>
 			<name>k67</name>
 			<LookAt>
@@ -3313,11 +3325,12 @@ riverside path which starts opposite.</description>
 			<Point>
 				<coordinates>-2.553076141686605,55.48242601793027,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.946 , -2 33.185</description></Placemark>
 		<Placemark>
 			<name>k68</name>
 			<description>Where two bridges cross the river, cross
-the first bridge.</description>
+the first bridge.
+55 28.844 , -2 33.07</description>
 			<LookAt>
 				<longitude>-2.551609959778731</longitude>
 				<latitude>55.48080941758384</latitude>
@@ -3337,7 +3350,8 @@ the first bridge.</description>
 			<name>k69</name>
 			<description>Continue, keeping left
 and joining a path that passes through
-a subway under the road.</description>
+a subway under the road.
+55 28.823 , -2 33.088</description>
 			<LookAt>
 				<longitude>-2.551834817659546</longitude>
 				<latitude>55.47984513439525</latitude>
@@ -3369,7 +3383,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.552296488658257,55.48007017085697,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.804 , -2 33.138</description></Placemark>
 		<Placemark>
 			<name>k71</name>
 			<LookAt>
@@ -3386,7 +3400,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.552076998081972,55.47983661809224,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.79 , -2 33.125</description></Placemark>
 		<Placemark>
 			<name>k72</name>
 			<LookAt>
@@ -3403,7 +3417,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.551490584867955,55.48001128895776,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.801 , -2 33.089</description></Placemark>
 		<Placemark>
 			<name>k73</name>
 			<LookAt>
@@ -3420,7 +3434,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.551085988455052,55.47999285773873,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.8 , -2 33.065</description></Placemark>
 		<Placemark>
 			<name>k74</name>
 			<LookAt>
@@ -3437,7 +3451,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.550998144857586,55.47920922819241,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.753 , -2 33.06</description></Placemark>
 		<Placemark>
 			<name>k75</name>
 			<LookAt>
@@ -3454,7 +3468,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.551279424926862,55.47807218821938,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.684 , -2 33.077</description></Placemark>
 		<Placemark>
 			<name>k76</name>
 			<LookAt>
@@ -3471,7 +3485,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.551250638241267,55.47702563972572,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.622 , -2 33.075</description></Placemark>
 		<Placemark>
 			<name>k77</name>
 			<LookAt>
@@ -3488,7 +3502,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.552542505059877,55.47570666165369,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.542 , -2 33.153</description></Placemark>
 		<Placemark>
 			<name>k78</name>
 			<LookAt>
@@ -3505,7 +3519,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.553375507435545,55.4756128206414,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.537 , -2 33.203</description></Placemark>
 		<Placemark>
 			<name>k79</name>
 			<LookAt>
@@ -3524,7 +3538,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.553739546258321,55.4757155230727,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.543 , -2 33.224</description></Placemark>
 		<Placemark>
 			<name>k80</name>
 			<LookAt>
@@ -3543,7 +3557,7 @@ a subway under the road.</description>
 			<Point>
 				<coordinates>-2.554195738447985,55.47599787945701,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.56 , -2 33.252</description></Placemark>
 	</Folder>
 </Document>
 </kml>

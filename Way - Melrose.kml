@@ -2373,7 +2373,7 @@
 			<Point>
 				<coordinates>-2.718929377600119,55.59905548400403,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.943 , -2 43.136</description></Placemark>
 		<Placemark>
 			<name>M2</name>
 			<LookAt>
@@ -2390,7 +2390,7 @@
 			<Point>
 				<coordinates>-2.718449178554861,55.59836073927632,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.902 , -2 43.107</description></Placemark>
 		<Placemark>
 			<name>M3</name>
 			<LookAt>
@@ -2407,7 +2407,7 @@
 			<Point>
 				<coordinates>-2.71560490727599,55.59838442252845,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.903 , -2 42.936</description></Placemark>
 		<Placemark>
 			<name>M4</name>
 			<LookAt>
@@ -2424,7 +2424,7 @@
 			<Point>
 				<coordinates>-2.714062666609506,55.59847764652817,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.909 , -2 42.844</description></Placemark>
 		<Placemark>
 			<name>M5</name>
 			<LookAt>
@@ -2441,7 +2441,7 @@
 			<Point>
 				<coordinates>-2.711648925547602,55.59873903168085,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.924 , -2 42.699</description></Placemark>
 		<Placemark>
 			<name>M6</name>
 			<LookAt>
@@ -2458,7 +2458,7 @@
 			<Point>
 				<coordinates>-2.708072777313201,55.59905256264663,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.943 , -2 42.484</description></Placemark>
 		<Placemark>
 			<name>M7</name>
 			<LookAt>
@@ -2475,7 +2475,7 @@
 			<Point>
 				<coordinates>-2.702763544534834,55.59917545720186,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.951 , -2 42.166</description></Placemark>
 		<Placemark>
 			<name>M8</name>
 			<LookAt>
@@ -2492,7 +2492,7 @@
 			<Point>
 				<coordinates>-2.698798090142592,55.5999285847428,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.996 , -2 41.928</description></Placemark>
 		<Placemark>
 			<name>M9</name>
 			<LookAt>
@@ -2509,7 +2509,7 @@
 			<Point>
 				<coordinates>-2.685720426172702,55.60390483034103,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.234 , -2 41.143</description></Placemark>
 		<Placemark>
 			<name>M10</name>
 			<LookAt>
@@ -2526,7 +2526,7 @@
 			<Point>
 				<coordinates>-2.682430106822742,55.60426048799515,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.256 , -2 40.946</description></Placemark>
 		<Placemark>
 			<name>M11</name>
 			<LookAt>
@@ -2543,7 +2543,7 @@
 			<Point>
 				<coordinates>-2.678617558597078,55.6039042386639,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.234 , -2 40.717</description></Placemark>
 		<Placemark>
 			<name>M12</name>
 			<LookAt>
@@ -2560,7 +2560,7 @@
 			<Point>
 				<coordinates>-2.677758428703782,55.60363310484541,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.218 , -2 40.666</description></Placemark>
 		<Placemark>
 			<name>M13</name>
 			<LookAt>
@@ -2577,7 +2577,7 @@
 			<Point>
 				<coordinates>-2.677189654835598,55.60010665020899,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.006 , -2 40.631</description></Placemark>
 		<Placemark>
 			<name>M14</name>
 			<LookAt>
@@ -2594,7 +2594,7 @@
 			<Point>
 				<coordinates>-2.67796603811978,55.59998060454502,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.999 , -2 40.678</description></Placemark>
 		<Placemark>
 			<name>M15</name>
 			<LookAt>
@@ -2611,7 +2611,7 @@
 			<Point>
 				<coordinates>-2.684781064292011,55.60015142089403,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.009 , -2 41.087</description></Placemark>
 		<Placemark>
 			<name>M16</name>
 			<LookAt>
@@ -2628,7 +2628,7 @@
 			<Point>
 				<coordinates>-2.689247245909296,55.59893652705154,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.936 , -2 41.355</description></Placemark>
 		<Placemark>
 			<name>M17</name>
 			<LookAt>
@@ -2645,7 +2645,7 @@
 			<Point>
 				<coordinates>-2.689722920955759,55.59852339740405,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.911 , -2 41.383</description></Placemark>
 		<Placemark>
 			<name>M18</name>
 			<LookAt>
@@ -2662,10 +2662,11 @@
 			<Point>
 				<coordinates>-2.687673714625525,55.59722010099027,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.833 , -2 41.26</description></Placemark>
 		<Placemark>
 			<name>M19</name>
-			<description>This is a guess</description>
+			<description>This is a guess
+55 35.678 , -2 41.221</description>
 			<LookAt>
 				<longitude>-2.687670687164913</longitude>
 				<latitude>55.59471851428961</latitude>
@@ -2697,7 +2698,7 @@
 			<Point>
 				<coordinates>-2.690955507417155,55.59365173392832,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.619 , -2 41.457</description></Placemark>
 		<Placemark>
 			<name>M21</name>
 			<LookAt>
@@ -2714,7 +2715,7 @@
 			<Point>
 				<coordinates>-2.688336151302747,55.59066856581188,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.44 , -2 41.3</description></Placemark>
 		<Placemark>
 			<name>M22</name>
 			<LookAt>
@@ -2731,7 +2732,7 @@
 			<Point>
 				<coordinates>-2.684417988933453,55.58839363092569,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.304 , -2 41.065</description></Placemark>
 		<Placemark>
 			<name>M23</name>
 			<LookAt>
@@ -2748,7 +2749,7 @@
 			<Point>
 				<coordinates>-2.681981367343797,55.58672754459182,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.204 , -2 40.919</description></Placemark>
 		<Placemark>
 			<name>M24</name>
 			<LookAt>
@@ -2765,7 +2766,7 @@
 			<Point>
 				<coordinates>-2.675452527690089,55.58097912160101,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.859 , -2 40.527</description></Placemark>
 		<Placemark>
 			<name>M25</name>
 			<LookAt>
@@ -2782,7 +2783,7 @@
 			<Point>
 				<coordinates>-2.674795906386459,55.58060589084779,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.836 , -2 40.488</description></Placemark>
 		<Placemark>
 			<name>M26</name>
 			<LookAt>
@@ -2799,7 +2800,7 @@
 			<Point>
 				<coordinates>-2.672878508035127,55.57804498132743,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.683 , -2 40.373</description></Placemark>
 		<Placemark>
 			<name>M27</name>
 			<LookAt>
@@ -2816,14 +2817,15 @@
 			<Point>
 				<coordinates>-2.67266784715135,55.57669298456825,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.602 , -2 40.36</description></Placemark>
 		<Placemark>
 			<name>M28</name>
 			<description>When reaching the Bank
 of Scotland building, turn left onto
 Tweedside Road to join St Cuthbert’s
 Way.
-44</description>
+44
+55 34.565 , -2 40.253</description>
 			<LookAt>
 				<longitude>-2.67099179570379</longitude>
 				<latitude>55.57605508676418</latitude>
@@ -2855,7 +2857,7 @@ Way.
 			<Point>
 				<coordinates>-2.670088229996874,55.57605014627824,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.563 , -2 40.205</description></Placemark>
 		<Placemark>
 			<name>M30</name>
 			<LookAt>
@@ -2872,7 +2874,7 @@ Way.
 			<Point>
 				<coordinates>-2.667460204273585,55.57695686957787,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.617 , -2 40.048</description></Placemark>
 		<Placemark>
 			<name>M31</name>
 			<LookAt>
@@ -2889,13 +2891,14 @@ Way.
 			<Point>
 				<coordinates>-2.66618037194481,55.57737514751943,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.643 , -2 39.971</description></Placemark>
 		<Placemark>
 			<name>M32</name>
 			<description>Climb the path to
 the right and follow it above the River
 Tweed, with excellent views over the
-valley.</description>
+valley.
+55 34.787 , -2 39.526</description>
 			<LookAt>
 				<longitude>-2.652635203312267</longitude>
 				<latitude>55.57347273747464</latitude>
@@ -2916,7 +2919,8 @@ valley.</description>
 			<description>The path drops down to meet
 a road at Dryburgh Bridge. Leaving
 St Cuthbert’s Way, cross the bridge and
-follow the path</description>
+follow the path
+55 34.807 , -2 39.262</description>
 			<LookAt>
 				<longitude>-2.654586463085565</longitude>
 				<latitude>55.57986718316693</latitude>
@@ -2948,7 +2952,7 @@ follow the path</description>
 			<Point>
 				<coordinates>-2.654114931777416,55.58115721665112,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.869 , -2 39.247</description></Placemark>
 		<Placemark>
 			<name>M35</name>
 			<LookAt>
@@ -2965,10 +2969,11 @@ follow the path</description>
 			<Point>
 				<coordinates>-2.649555930694417,55.58029309541918,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.818 , -2 38.973</description></Placemark>
 		<Placemark>
 			<name>M36</name>
-			<description>Dryburgh Abbey</description>
+			<description>Dryburgh Abbey
+55 34.684 , -2 38.94</description>
 			<LookAt>
 				<longitude>-2.65031930506941</longitude>
 				<latitude>55.57875798336647</latitude>
@@ -3000,14 +3005,15 @@ follow the path</description>
 			<Point>
 				<coordinates>-2.639847740611701,55.57943722613434,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.766 , -2 38.391</description></Placemark>
 		<Placemark>
 			<name>M38</name>
 			<description>Walk along the
 riverside, and continue with a field on
 your left. At the end of the field, leave
 the riverside, walking uphill through a
-small woodland.</description>
+small woodland.
+55 35.029 , -2 37.804</description>
 			<LookAt>
 				<longitude>-2.628834982241969</longitude>
 				<latitude>55.58357903663894</latitude>
@@ -3039,12 +3045,13 @@ small woodland.</description>
 			<Point>
 				<coordinates>-2.624404045886772,55.58395065203529,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.037 , -2 37.464</description></Placemark>
 		<Placemark>
 			<name>M40</name>
 			<description>On reaching a field,
 go along the right-hand edge of the field
-to a gateway.</description>
+to a gateway.
+55 34.935 , -2 37.232</description>
 			<LookAt>
 				<longitude>-2.622724073093175</longitude>
 				<latitude>55.58371360502233</latitude>
@@ -3063,7 +3070,8 @@ to a gateway.</description>
 		<Placemark>
 			<name>M41</name>
 			<description>Follow the track up past
-Mertoun Cemetery to a road.</description>
+Mertoun Cemetery to a road.
+55 35.029 , -2 37.192</description>
 			<LookAt>
 				<longitude>-2.620352257425057</longitude>
 				<latitude>55.58421200399535</latitude>
@@ -3095,12 +3103,13 @@ Mertoun Cemetery to a road.</description>
 			<Point>
 				<coordinates>-2.620043255517016,55.58431992239823,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.059 , -2 37.203</description></Placemark>
 		<Placemark>
 			<name>M43</name>
 			<description>Turn right
 and pass carefully along the road, through
-the hamlet of Clintmains to meet a main road</description>
+the hamlet of Clintmains to meet a main road
+55 35.097 , -2 36.954</description>
 			<LookAt>
 				<longitude>-2.617919929670688</longitude>
 				<latitude>55.58477657105235</latitude>
@@ -3121,7 +3130,8 @@ the hamlet of Clintmains to meet a main road</description>
 			<description>Across the road is the driveway
 to Mertoun House and Gardens.
 The Gardens are open to the public at
-weekends during the summer.</description>
+weekends during the summer.
+55 35 , -2 36.867</description>
 			<LookAt>
 				<longitude>-2.612333477860042</longitude>
 				<latitude>55.58362240373154</latitude>
@@ -3142,7 +3152,8 @@ weekends during the summer.</description>
 			<description>After 300m turn right on
 an old tarmac road, then left to follow
 the path through the woodland on
-your left.</description>
+your left.
+55 35 , -2 36.53</description>
 			<LookAt>
 				<longitude>-2.607407827886794</longitude>
 				<latitude>55.58284301233175</latitude>
@@ -3163,7 +3174,8 @@ your left.</description>
 			<description>After 300m turn right on
 an old tarmac road, then left to follow
 the path through the woodland on
-your left.</description>
+your left.
+55 34.95 , -2 36.455</description>
 			<LookAt>
 				<longitude>-2.607407827886794</longitude>
 				<latitude>55.58284301233175</latitude>
@@ -3186,7 +3198,8 @@ turn right along a minor road, pass the
 farm steading of Magdalenehall and
 continue straight ahead down a track
 that eventually reaches the bank of
-the River Tweed.</description>
+the River Tweed.
+55 35.033 , -2 36.247</description>
 			<LookAt>
 				<longitude>-2.607407827886794</longitude>
 				<latitude>55.58284301233175</latitude>
@@ -3218,7 +3231,7 @@ the River Tweed.</description>
 			<Point>
 				<coordinates>-2.601267925168864,55.58215316522569,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.929 , -2 36.076</description></Placemark>
 		<Placemark>
 			<name>M49</name>
 			<LookAt>
@@ -3235,7 +3248,7 @@ the River Tweed.</description>
 			<Point>
 				<coordinates>-2.594967955873292,55.57878988452301,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.727 , -2 35.698</description></Placemark>
 		<Placemark>
 			<name>M50</name>
 			<LookAt>
@@ -3252,12 +3265,13 @@ the River Tweed.</description>
 			<Point>
 				<coordinates>-2.589466109673513,55.57649458357139,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.59 , -2 35.368</description></Placemark>
 		<Placemark>
 			<name>M51</name>
 			<description>After 11/2km, follow
 the track away from the riverbank, and
-then turn right through a gate.</description>
+then turn right through a gate.
+55 34.78 , -2 33.982</description>
 			<LookAt>
 				<longitude>-2.566201599855703</longitude>
 				<latitude>55.58013005691217</latitude>
@@ -3289,7 +3303,7 @@ then turn right through a gate.</description>
 			<Point>
 				<coordinates>-2.561297697772194,55.58200782781924,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 34.92 , -2 33.678</description></Placemark>
 		<Placemark>
 			<name>M53</name>
 			<description>Go through the gate, then straight on up
@@ -3297,7 +3311,8 @@ the track. At the road turn right. From
 this road, good all-round views back
 to the Tweed, Eildon Hills and towards
 Smailholm Tower, Peniel Heugh and the
-Cheviot Hills can be had.</description>
+Cheviot Hills can be had.
+55 35.03 , -2 33.324</description>
 			<LookAt>
 				<longitude>-2.553885605172355</longitude>
 				<latitude>55.58381409709353</latitude>
@@ -3316,7 +3331,8 @@ Cheviot Hills can be had.</description>
 		<Placemark>
 			<name>M54</name>
 			<description>At the end of
-the road, turn right down an old lane.</description>
+the road, turn right down an old lane.
+55 34.915 , -2 32.649</description>
 			<LookAt>
 				<longitude>-2.543763943825252</longitude>
 				<latitude>55.58193657272593</latitude>
@@ -3336,7 +3352,8 @@ the road, turn right down an old lane.</description>
 			<name>M55</name>
 			<description>Follow the lane to the left and continue
 straight on to reach the small settlement
-of Makerstoun.</description>
+of Makerstoun.
+55 34.737 , -2 32.606</description>
 			<LookAt>
 				<longitude>-2.543217350804738</longitude>
 				<latitude>55.57953862387502</latitude>
@@ -3368,12 +3385,13 @@ of Makerstoun.</description>
 			<Point>
 				<coordinates>-2.530140900786476,55.58469605796321,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.082 , -2 31.808</description></Placemark>
 		<Placemark>
 			<name>M57</name>
 			<description>At the road junction turn left. From
 this road, Makerstoun Church can be
-seen to the left.</description>
+seen to the left.
+55 35.229 , -2 31.527</description>
 			<LookAt>
 				<longitude>-2.525325159273621</longitude>
 				<latitude>55.58661127228862</latitude>
@@ -3394,7 +3412,8 @@ seen to the left.</description>
 			<description>Before the church, turn
 right at the war memorial and pass
 the former school. Follow this minor
-road through attractive rolling farmland,</description>
+road through attractive rolling farmland,
+55 35.428 , -2 31.513</description>
 			<LookAt>
 				<longitude>-2.524051991210086</longitude>
 				<latitude>55.59124859840862</latitude>
@@ -3416,7 +3435,8 @@ road through attractive rolling farmland,</description>
 road through attractive rolling farmland,
 turning left, then right, past the farm
 and cottages of Haymount, eventually
-to meet a main road.</description>
+to meet a main road.
+55 35.778 , -2 31.016</description>
 			<LookAt>
 				<longitude>-2.516623511678814</longitude>
 				<latitude>55.59618878597532</latitude>
@@ -3438,7 +3458,8 @@ to meet a main road.</description>
 road through attractive rolling farmland,
 turning left, then right, past the farm
 and cottages of Haymount, eventually
-to meet a main road.</description>
+to meet a main road.
+55 35.825 , -2 31.07</description>
 			<LookAt>
 				<longitude>-2.518046407392638</longitude>
 				<latitude>55.59684734383834</latitude>
@@ -3461,7 +3482,8 @@ ahead, towards and then past the farm
 of Wester Muirdean (another place
 that fell victim to the Earl of Hertford),
 taking the rough old lane ahead as the
-road bends to the right.</description>
+road bends to the right.
+55 36.347 , -2 30.056</description>
 			<LookAt>
 				<longitude>-2.500137274239696</longitude>
 				<latitude>55.60595758848308</latitude>
@@ -3484,7 +3506,8 @@ ahead, towards and then past the farm
 of Wester Muirdean (another place
 that fell victim to the Earl of Hertford),
 taking the rough old lane ahead as the
-road bends to the right.</description>
+road bends to the right.
+55 36.438 , -2 29.897</description>
 			<LookAt>
 				<longitude>-2.498513950615814</longitude>
 				<latitude>55.60718723074319</latitude>
@@ -3506,7 +3529,8 @@ road bends to the right.</description>
 lane eventually reaches a main road.
 This spot (Skinlaws) was a toll point for
 the 1799 Whiteburn to Kelso Turnpike.
-Cross carefully and go straight ahead</description>
+Cross carefully and go straight ahead
+55 36.963 , -2 28.553</description>
 			<LookAt>
 				<longitude>-2.476433257240348</longitude>
 				<latitude>55.61582939762365</latitude>
@@ -3525,7 +3549,8 @@ Cross carefully and go straight ahead</description>
 		<Placemark>
 			<name>M64</name>
 			<description>200m after a row of cottages, turn right
-onto a track between fields,</description>
+onto a track between fields,
+55 37.287 , -2 27.669</description>
 			<LookAt>
 				<longitude>-2.461360188921904</longitude>
 				<latitude>55.62174562380606</latitude>
@@ -3557,7 +3582,7 @@ onto a track between fields,</description>
 			<Point>
 				<coordinates>-2.456348382003468,55.61787162375143,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 37.072 , -2 27.381</description></Placemark>
 		<Placemark>
 			<name>M66</name>
 			<LookAt>
@@ -3574,11 +3599,12 @@ onto a track between fields,</description>
 			<Point>
 				<coordinates>-2.451615501637208,55.61764115951341,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 37.058 , -2 27.097</description></Placemark>
 		<Placemark>
 			<name>M67</name>
 			<description>When the track meets
-a road, go straight across, taking care.</description>
+a road, go straight across, taking care.
+55 37.088 , -2 27.053</description>
 			<LookAt>
 				<longitude>-2.45157202063396</longitude>
 				<latitude>55.61802863500525</latitude>
@@ -3604,7 +3630,8 @@ and is a large deposit of material left by
 retreating glaciers about 12,000 years
 ago. Go through the gate and follow the
 left-hand edge of the field to a gate onto
-an old grassy lane.</description>
+an old grassy lane.
+55 37.095 , -2 26.949</description>
 			<LookAt>
 				<longitude>-2.450144175885863</longitude>
 				<latitude>55.61484153169399</latitude>
@@ -3625,7 +3652,8 @@ an old grassy lane.</description>
 			<description>Turn left to the end
 of the lane, then right, up a quiet road,
 past Berryhill, to the edge of Kelso
-Racecourse.</description>
+Racecourse.
+55 36.98 , -2 26.744</description>
 			<LookAt>
 				<longitude>-2.450144175885863</longitude>
 				<latitude>55.61484153169399</latitude>
@@ -3657,7 +3685,7 @@ Racecourse.</description>
 			<Point>
 				<coordinates>-2.441546876528926,55.61790368374908,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 37.074 , -2 26.493</description></Placemark>
 		<Placemark>
 			<name>M71</name>
 			<description>The course is the home
@@ -3665,7 +3693,8 @@ of Borders horse racing and was opened
 in 1822. It was also voted as ‘Britain’s
 Friendliest Racecourse’. Turn right, then
 left, around the Racecourse, following
-the road to a junction.</description>
+the road to a junction.
+55 36.724 , -2 26.304</description>
 			<LookAt>
 				<longitude>-2.437106602315743</longitude>
 				<latitude>55.61021456726513</latitude>
@@ -3697,14 +3726,15 @@ the road to a junction.</description>
 			<Point>
 				<coordinates>-2.434933138859511,55.6102363610732,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.614 , -2 26.096</description></Placemark>
 		<Placemark>
 			<name>M73</name>
 			<description>Turn left and
 follow the pavement for 300m. Just after
 the golf clubhouse and opposite the ice
 rink, turn right on a tarmac path and
-straight on through a housing estate.</description>
+straight on through a housing estate.
+55 36.559 , -2 26.167</description>
 			<LookAt>
 				<longitude>-2.433457709140131</longitude>
 				<latitude>55.60937460988895</latitude>
@@ -3726,7 +3756,8 @@ straight on through a housing estate.</description>
 follow the pavement for 300m. Just after
 the golf clubhouse and opposite the ice
 rink, turn right on a tarmac path and
-straight on through a housing estate.</description>
+straight on through a housing estate.
+55 36.485 , -2 25.972</description>
 			<LookAt>
 				<longitude>-2.432897057801097</longitude>
 				<latitude>55.60810622823597</latitude>
@@ -3746,7 +3777,8 @@ straight on through a housing estate.</description>
 			<name>M75</name>
 			<description>With the home of Kelso rugby club,
 Poynder Park, ahead of you, zigzag
-down the hill.</description>
+down the hill.
+55 36.332 , -2 26.178</description>
 			<LookAt>
 				<longitude>-2.435803260545874</longitude>
 				<latitude>55.60554937824345</latitude>
@@ -3765,7 +3797,8 @@ down the hill.</description>
 		<Placemark>
 			<name>M76</name>
 			<description>Turn right to follow the
-path parallel to the road at the bottom.</description>
+path parallel to the road at the bottom.
+55 36.312 , -2 26.182</description>
 			<LookAt>
 				<longitude>-2.435803260545874</longitude>
 				<latitude>55.60554937824345</latitude>
@@ -3784,7 +3817,8 @@ path parallel to the road at the bottom.</description>
 		<Placemark>
 			<name>M77</name>
 			<description>Turn right to follow the
-path parallel to the road at the bottom.</description>
+path parallel to the road at the bottom.
+55 36.315 , -2 26.486</description>
 			<LookAt>
 				<longitude>-2.443608625986427</longitude>
 				<latitude>55.60447741942178</latitude>
@@ -3803,7 +3837,8 @@ path parallel to the road at the bottom.</description>
 		<Placemark>
 			<name>M78</name>
 			<description>Turn left, then right at the
-next junction.</description>
+next junction.
+55 36.248 , -2 26.595</description>
 			<LookAt>
 				<longitude>-2.445062827843008</longitude>
 				<latitude>55.60359735247133</latitude>
@@ -3822,7 +3857,8 @@ next junction.</description>
 		<Placemark>
 			<name>M79</name>
 			<description>Turn left, then right at the
-next junction.</description>
+next junction.
+55 36.122 , -2 26.489</description>
 			<LookAt>
 				<longitude>-2.442482065141046</longitude>
 				<latitude>55.60207134255228</latitude>
@@ -3841,7 +3877,8 @@ next junction.</description>
 		<Placemark>
 			<name>M80</name>
 			<description>After 100m, turn right,
-down to the grassy bank of the Tweed.</description>
+down to the grassy bank of the Tweed.
+55 36.082 , -2 26.515</description>
 			<LookAt>
 				<longitude>-2.442482065141046</longitude>
 				<latitude>55.60207134255228</latitude>
@@ -3863,7 +3900,8 @@ down to the grassy bank of the Tweed.</description>
 Cobby Riverside Walk, which is
 flooded occasionally by the river, with
 the spire of Kelso North Parish Church
-to the left.</description>
+to the left.
+55 36.056 , -2 26.378</description>
 			<LookAt>
 				<longitude>-2.439490586200315</longitude>
 				<latitude>55.60057921279382</latitude>
@@ -3885,7 +3923,8 @@ to the left.</description>
 what remains of the foundations of the
 water mill that was associated with the
 abbey. Go up the ramp, then straight
-ahead into the town centre.</description>
+ahead into the town centre.
+55 35.915 , -2 26.166</description>
 			<LookAt>
 				<longitude>-2.435652931918827</longitude>
 				<latitude>55.59864926999789</latitude>
@@ -3907,7 +3946,8 @@ ahead into the town centre.</description>
 passing The Square, formerly a large
 market place and the hub of the town
 from the Middle Ages, to reach the ruins
-of Kelso Abbey on your left.</description>
+of Kelso Abbey on your left.
+55 35.92 , -2 26.074</description>
 			<LookAt>
 				<longitude>-2.434381985603986</longitude>
 				<latitude>55.5986308370118</latitude>
@@ -3929,7 +3969,8 @@ of Kelso Abbey on your left.</description>
 passing The Square, formerly a large
 market place and the hub of the town
 from the Middle Ages, to reach the ruins
-of Kelso Abbey on your left.</description>
+of Kelso Abbey on your left.
+55 35.848 , -2 25.959</description>
 			<LookAt>
 				<longitude>-2.432547845861961</longitude>
 				<latitude>55.59769049105182</latitude>

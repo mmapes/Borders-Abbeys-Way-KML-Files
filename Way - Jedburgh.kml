@@ -1112,11 +1112,12 @@
 			<Point>
 				<coordinates>-2.554372918636886,55.47612733467516,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.568 , -2 33.262</description></Placemark>
 		<Placemark>
 			<name>J2</name>
 			<description>From Jedburgh Abbey, pass along Abbey
-Place to the Square.</description>
+Place to the Square.
+55 28.65 , -2 33.325</description>
 			<LookAt>
 				<longitude>-2.555697705081342</longitude>
 				<latitude>55.47755189659195</latitude>
@@ -1135,7 +1136,8 @@ Place to the Square.</description>
 		<Placemark>
 			<name>J3</name>
 			<description>Turn left into Castlegate
-and go uphill</description>
+and go uphill
+55 28.636 , -2 33.357</description>
 			<LookAt>
 				<longitude>-2.556158041553632</longitude>
 				<latitude>55.47708207721612</latitude>
@@ -1155,7 +1157,8 @@ and go uphill</description>
 			<name>J4</name>
 			<description>uphill to the Castle Gaol. At the
 Gaol (now a museum), bear left into Gala Hill
-and go downhill</description>
+and go downhill
+55 28.498 , -2 33.491</description>
 			<LookAt>
 				<longitude>-2.558740965861239</longitude>
 				<latitude>55.47464307768216</latitude>
@@ -1175,7 +1178,8 @@ and go downhill</description>
 			<name>J5</name>
 			<description>downhill until the road ends. Keep
 left over the small bridge and join the track
-on the other side.</description>
+on the other side.
+55 28.183 , -2 33.401</description>
 			<LookAt>
 				<longitude>-2.558627685964467</longitude>
 				<latitude>55.47071962713677</latitude>
@@ -1195,7 +1199,8 @@ on the other side.</description>
 			<name>J6</name>
 			<description>Pass Todlaw House on
 the left and follow the narrow tarmac road to
-a junction.</description>
+a junction.
+55 27.97 , -2 33.605</description>
 			<LookAt>
 				<longitude>-2.559069343404986</longitude>
 				<latitude>55.46536756637216</latitude>
@@ -1214,7 +1219,8 @@ a junction.</description>
 		<Placemark>
 			<name>J7</name>
 			<description>Turn right, and head uphill on a
-rough track.</description>
+rough track.
+55 27.841 , -2 33.699</description>
 			<LookAt>
 				<longitude>-2.560144129630825</longitude>
 				<latitude>55.46387470957643</latitude>
@@ -1235,7 +1241,8 @@ rough track.</description>
 			<description>Eventually, after a number of bends, the
 track meets the old road (now a track)
 from Jedburgh to Swinnie at a T-junction.
-Turn left onto this track,</description>
+Turn left onto this track,
+55 28.047 , -2 34.551</description>
 			<LookAt>
 				<longitude>-2.575802187289797</longitude>
 				<latitude>55.46670400151927</latitude>
@@ -1256,7 +1263,8 @@ Turn left onto this track,</description>
 			<description>track, and continue
 to follow it to the second coniferous
 plantation at Merlin Dean.
-At the plantation, turn right as signed.</description>
+At the plantation, turn right as signed.
+55 27.142 , -2 35.321</description>
 			<LookAt>
 				<longitude>-2.59084442893132</longitude>
 				<latitude>55.4521306758577</latitude>
@@ -1277,7 +1285,8 @@ At the plantation, turn right as signed.</description>
 			<description>After crossing the bridge, climb up the
 hill, keeping close to the plantation. At
 the end of the plantation, turn left through
-the small gate</description>
+the small gate
+55 27.314 , -2 36.113</description>
 			<LookAt>
 				<longitude>-2.602233757928584</longitude>
 				<latitude>55.45506442104428</latitude>
@@ -1300,7 +1309,8 @@ of the wood and through a second small
 gate. Turn immediately right here through
 yet another small gate and onto the open
 hillside with the radio masts and the
-summit of Black Law on the right.</description>
+summit of Black Law on the right.
+55 27.284 , -2 36.18</description>
 			<LookAt>
 				<longitude>-2.603080073653004</longitude>
 				<latitude>55.45482132324366</latitude>
@@ -1322,7 +1332,8 @@ summit of Black Law on the right.</description>
 on the right, follow the waymark posts on
 the hillside. After crossing the brow, the
 distinctive shape of Rubers Law appears
-ahead and to the left.</description>
+ahead and to the left.
+55 27.227 , -2 36.567</description>
 			<LookAt>
 				<longitude>-2.620142868018424</longitude>
 				<latitude>55.45186212050874</latitude>
@@ -1343,7 +1354,8 @@ ahead and to the left.</description>
 			<description>Continue downhill
 towards the right side of the small wood
 known as Blacklaw Strip, and after crossing
-the stile, go down the side of the wood.</description>
+the stile, go down the side of the wood.
+55 27.195 , -2 36.853</description>
 			<LookAt>
 				<longitude>-2.619995221170366</longitude>
 				<latitude>55.45253866177252</latitude>
@@ -1362,7 +1374,8 @@ the stile, go down the side of the wood.</description>
 		<Placemark>
 			<name>J14</name>
 			<description>leaving the wood bear left, cross the burn
-and pass over a stile onto a track.</description>
+and pass over a stile onto a track.
+55 27.172 , -2 37.28</description>
 			<LookAt>
 				<longitude>-2.621983271898717</longitude>
 				<latitude>55.452494883884</latitude>
@@ -1382,7 +1395,8 @@ and pass over a stile onto a track.</description>
 			<name>J15</name>
 			<description>Turn
 right at the second gate and go down the
-farm track to the minor road.</description>
+farm track to the minor road.
+55 27.014 , -2 37.391</description>
 			<LookAt>
 				<longitude>-2.624855285672949</longitude>
 				<latitude>55.45050354688766</latitude>
@@ -1403,7 +1417,8 @@ farm track to the minor road.</description>
 			<description>To reach the
 Bedrule Kirk, a short diversion from the
 route may be taken here (BY TURNING RIGHT, .25 MILES EACH WAY), otherwise turn
-left .</description>
+left .
+55 27.146 , -2 37.998</description>
 			<LookAt>
 				<longitude>-2.633275439025091</longitude>
 				<latitude>55.45258238176102</latitude>
@@ -1422,7 +1437,8 @@ left .</description>
 		<Placemark>
 			<name>J17</name>
 			<description>After passing the War Memorial,
-turn right downhill</description>
+turn right downhill
+55 27.129 , -2 38.022</description>
 			<LookAt>
 				<longitude>-2.63334306436395</longitude>
 				<latitude>55.45205138881171</latitude>
@@ -1441,7 +1457,8 @@ turn right downhill</description>
 		<Placemark>
 			<name>J18</name>
 			<description>and over the bridge
-spanning the Rule Water at Bedrule.</description>
+spanning the Rule Water at Bedrule.
+55 27.105 , -2 38.213</description>
 			<LookAt>
 				<longitude>-2.636735053255096</longitude>
 				<latitude>55.45174614308824</latitude>
@@ -1460,7 +1477,8 @@ spanning the Rule Water at Bedrule.</description>
 		<Placemark>
 			<name>J19</name>
 			<description>The
-road swings sharply to the right.</description>
+road swings sharply to the right.
+55 27.099 , -2 38.265</description>
 			<LookAt>
 				<longitude>-2.639835748538268</longitude>
 				<latitude>55.45111588167239</latitude>
@@ -1482,7 +1500,8 @@ road swings sharply to the right.</description>
 immediately turn left and follow the minor
 road uphill (signposted for Bonchester
 Bridge). Follow this road for approximately
-400 metres</description>
+400 metres
+55 27.019 , -2 38.399</description>
 			<LookAt>
 				<longitude>-2.638685663434166</longitude>
 				<latitude>55.45060161242454</latitude>
@@ -1501,7 +1520,8 @@ Bridge). Follow this road for approximately
 		<Placemark>
 			<name>J21</name>
 			<description>Follow this road for approximately
-400 metres to where it turns sharp left.</description>
+400 metres to where it turns sharp left.
+55 27.005 , -2 38.692</description>
 			<LookAt>
 				<longitude>-2.645006375140288</longitude>
 				<latitude>55.44920643304745</latitude>
@@ -1522,7 +1542,8 @@ Bridge). Follow this road for approximately
 			<description>Go straight on here and follow the track to
 a plantation. In a further 100 metres, follow
 the track left and after crossing the stile into
-the field, turn right</description>
+the field, turn right
+55 26.764 , -2 38.918</description>
 			<LookAt>
 				<longitude>-2.649581385928548</longitude>
 				<latitude>55.44720005435701</latitude>
@@ -1549,7 +1570,8 @@ and follow the wall to a gate. After passing
 through the gate, go across the field. After
 crossing a ladder stile and then a small burn,
 join the track leading towards the buildings
-at Spital Tower.</description>
+at Spital Tower.
+55 27.01 , -2 39.318</description>
 			<LookAt>
 				<longitude>-2.653997847724793</longitude>
 				<latitude>55.44981059137889</latitude>
@@ -1570,7 +1592,8 @@ at Spital Tower.</description>
 			<description>When the track swings right,
 cross the stile and follow the fence and over
 another stile. Turn left over the small bridge
-and proceed up the left side of the fields.</description>
+and proceed up the left side of the fields.
+55 27.119 , -2 39.454</description>
 			<LookAt>
 				<longitude>-2.657240946022804</longitude>
 				<latitude>55.45161446093644</latitude>
@@ -1590,7 +1613,8 @@ and proceed up the left side of the fields.</description>
 			<name>J25</name>
 			<description>At the top of the hill, turn left and continue
 along the side of the wood to the first gate
-on the right.</description>
+on the right.
+55 27.239 , -2 39.918</description>
 			<LookAt>
 				<longitude>-2.665520854231158</longitude>
 				<latitude>55.45428699416627</latitude>
@@ -1612,7 +1636,8 @@ on the right.</description>
 along the side of the wood to the first gate
 on the right. Go through the gate and cross
 a stile onto the track known locally as The
-Loaning.</description>
+Loaning.
+55 27.238 , -2 40.013</description>
 			<LookAt>
 				<longitude>-2.66795466639886</longitude>
 				<latitude>55.4535034333186</latitude>
@@ -1644,14 +1669,15 @@ Loaning.</description>
 			<Point>
 				<coordinates>-2.676956516742977,55.45510880243876,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.307 , -2 40.617</description></Placemark>
 		<Placemark>
 			<name>J28</name>
 			<description>In about a kilometre you reach
 the A698 Hawick/Kelso road in Denholm.
 
 In Denholm Turn left then first right,
-keeping the Village Green on your left.</description>
+keeping the Village Green on your left.
+55 27.483 , -2 40.911</description>
 			<LookAt>
 				<longitude>-2.682622650337354</longitude>
 				<latitude>55.45820737233906</latitude>
@@ -1670,7 +1696,8 @@ keeping the Village Green on your left.</description>
 		<Placemark>
 			<name>J29</name>
 			<description>In Denholm Turn left then first right,
-keeping the Village Green on your left.</description>
+keeping the Village Green on your left.
+55 27.488 , -2 40.992</description>
 			<LookAt>
 				<longitude>-2.68363653173759</longitude>
 				<latitude>55.45817061161069</latitude>
@@ -1688,7 +1715,8 @@ keeping the Village Green on your left.</description>
 		</Placemark>
 		<Placemark>
 			<name>J30</name>
-			<description>Follow the road round to the right</description>
+			<description>Follow the road round to the right
+55 27.533 , -2 41.041</description>
 			<LookAt>
 				<longitude>-2.684858161670472</longitude>
 				<latitude>55.45872690432752</latitude>
@@ -1707,7 +1735,8 @@ keeping the Village Green on your left.</description>
 		<Placemark>
 			<name>J31</name>
 			<description>and then turn left, to cross the bridge
-spanning the River Teviot.</description>
+spanning the River Teviot.
+55 27.57 , -2 41.014</description>
 			<LookAt>
 				<longitude>-2.684858161670472</longitude>
 				<latitude>55.45872690432752</latitude>
@@ -1727,7 +1756,8 @@ spanning the River Teviot.</description>
 			<name>J32</name>
 			<description>Immediately
 after crossing the bridge, turn left onto
-the path on the north bank of the Teviot.</description>
+the path on the north bank of the Teviot.
+55 27.649 , -2 41.12</description>
 			<LookAt>
 				<longitude>-2.685298155284506</longitude>
 				<latitude>55.46084651892141</latitude>
@@ -1753,7 +1783,8 @@ returning to the floodbank and after
 crossing two stiles, go up wooden
 steps and follow the edge of the field
 along the top of the bank before
-dropping down onto the minor road.</description>
+dropping down onto the minor road.
+55 27.448 , -2 41.601</description>
 			<LookAt>
 				<longitude>-2.689117107577995</longitude>
 				<latitude>55.45879159593326</latitude>
@@ -1771,7 +1802,8 @@ dropping down onto the minor road.</description>
 		</Placemark>
 		<Placemark>
 			<name>J34</name>
-			<description>Turn left onto the road and follow it</description>
+			<description>Turn left onto the road and follow it
+55 27.487 , -2 42.125</description>
 			<LookAt>
 				<longitude>-2.701977930242254</longitude>
 				<latitude>55.4582174864248</latitude>
@@ -1792,7 +1824,8 @@ dropping down onto the minor road.</description>
 			<description>follow it for
 approximately 1.5km to the cottage
 at Knowetown. The Borders Abbeys
-Way ends here</description>
+Way ends here
+55 27.482 , -2 43.36</description>
 			<LookAt>
 				<longitude>-2.722521212095001</longitude>
 				<latitude>55.45595036860099</latitude>
@@ -1814,7 +1847,8 @@ Way ends here</description>
 either route, steps take you back onto
 the riverbank for a pleasant journey
 of about 1km to the point where the
-Boonraw Burn joins the Teviot.</description>
+Boonraw Burn joins the Teviot.
+55 26.584 , -2 44.388</description>
 			<LookAt>
 				<longitude>-2.737241769132499</longitude>
 				<latitude>55.44430462729001</latitude>
@@ -1836,7 +1870,8 @@ Boonraw Burn joins the Teviot.</description>
 either route, steps take you back onto
 the riverbank for a pleasant journey
 of about 1km to the point where the
-Boonraw Burn joins the Teviot.</description>
+Boonraw Burn joins the Teviot.
+55 26.571 , -2 44.421</description>
 			<LookAt>
 				<longitude>-2.743231921973421</longitude>
 				<latitude>55.4426898234908</latitude>
@@ -1856,7 +1891,8 @@ Boonraw Burn joins the Teviot.</description>
 			<name>J38</name>
 			<description>Continue straight on along the track
 which eventually joins the road that
-leads into Mansfield Road.</description>
+leads into Mansfield Road.
+55 25.894 , -2 46.085</description>
 			<LookAt>
 				<longitude>-2.767989498789067</longitude>
 				<latitude>55.43159568213864</latitude>
@@ -1880,7 +1916,8 @@ the traffic lights, take the last turning
 on the right which leads uphill to the
 Teviotdate Leisure Centre and the
 end of this section of the Borders
-Abbeys Way.</description>
+Abbeys Way.
+55 25.703 , -2 47.015</description>
 			<LookAt>
 				<longitude>-2.783933691430338</longitude>
 				<latitude>55.4283798071205</latitude>

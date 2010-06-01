@@ -1560,11 +1560,12 @@
 			<Point>
 				<coordinates>-2.783987864332672,55.42879960351958,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 25.728 , -2 47.039</description></Placemark>
 		<Placemark>
 			<name>H2</name>
 			<description>cross the A7 road into Princes
-Street.</description>
+Street.
+55 25.739 , -2 47.142</description>
 			<LookAt>
 				<longitude>-2.785912109138817</longitude>
 				<latitude>55.42810855585562</latitude>
@@ -1584,7 +1585,8 @@ Street.</description>
 			<name>H3</name>
 			<description>Continue along Princes Street
 for approximately 200 metres and
-turn right uphill into Dickson Street.</description>
+turn right uphill into Dickson Street.
+55 25.684 , -2 47.283</description>
 			<LookAt>
 				<longitude>-2.786746048388043</longitude>
 				<latitude>55.42774113178845</latitude>
@@ -1603,7 +1605,8 @@ turn right uphill into Dickson Street.</description>
 		<Placemark>
 			<name>H4</name>
 			<description>Continue up Dickson Street, passing
-Wilton Parish Church on your right.</description>
+Wilton Parish Church on your right.
+55 25.772 , -2 47.449</description>
 			<LookAt>
 				<longitude>-2.787890070518352</longitude>
 				<latitude>55.42958692916142</latitude>
@@ -1622,7 +1625,8 @@ Wilton Parish Church on your right.</description>
 		<Placemark>
 			<name>H5</name>
 			<description>Continue up Dickson Street, passing
-Wilton Parish Church on your right.</description>
+Wilton Parish Church on your right.
+55 25.852 , -2 47.489</description>
 			<LookAt>
 				<longitude>-2.789797984459297</longitude>
 				<latitude>55.43034728260351</latitude>
@@ -1641,7 +1645,8 @@ Wilton Parish Church on your right.</description>
 		<Placemark>
 			<name>H6</name>
 			<description>Continue up Dickson Street, passing
-Wilton Parish Church on your right.</description>
+Wilton Parish Church on your right.
+55 25.942 , -2 47.533</description>
 			<LookAt>
 				<longitude>-2.790409384712433</longitude>
 				<latitude>55.43182374765998</latitude>
@@ -1660,7 +1665,8 @@ Wilton Parish Church on your right.</description>
 		<Placemark>
 			<name>H7</name>
 			<description>Continue up Dickson Street, passing
-Wilton Parish Church on your right.</description>
+Wilton Parish Church on your right.
+55 26.028 , -2 47.688</description>
 			<LookAt>
 				<longitude>-2.793429582589473</longitude>
 				<latitude>55.4334967807646</latitude>
@@ -1682,7 +1688,8 @@ Wilton Parish Church on your right.</description>
 uphill, eventually leaving the town.
 The road narrows now, and as you
 continue, you pass the imposing red
-tiled St. Andrew’s Convent.</description>
+tiled St. Andrew’s Convent.
+55 26.178 , -2 47.923</description>
 			<LookAt>
 				<longitude>-2.796411743330812</longitude>
 				<latitude>55.43654448444968</latitude>
@@ -1704,7 +1711,8 @@ tiled St. Andrew’s Convent.</description>
 uphill, eventually leaving the town.
 The road narrows now, and as you
 continue, you pass the imposing red
-tiled St. Andrew’s Convent.</description>
+tiled St. Andrew’s Convent.
+55 26.535 , -2 47.859</description>
 			<LookAt>
 				<longitude>-2.795591922570314</longitude>
 				<latitude>55.44184764176347</latitude>
@@ -1726,7 +1734,8 @@ tiled St. Andrew’s Convent.</description>
 crossroads is reached, known locally
 as ‘The Fower (Four) Road ends’.
 Pass straight over the junction onto
-the single track road,</description>
+the single track road,
+55 26.936 , -2 48.056</description>
 			<LookAt>
 				<longitude>-2.796959767547749</longitude>
 				<latitude>55.44784291150207</latitude>
@@ -1758,7 +1767,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.805810993302165,55.45367120556672,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.22 , -2 48.349</description></Placemark>
 		<Placemark>
 			<name>H12</name>
 			<LookAt>
@@ -1775,7 +1784,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.80899321508123,55.4551288576157,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.308 , -2 48.54</description></Placemark>
 		<Placemark>
 			<name>H13</name>
 			<LookAt>
@@ -1792,7 +1801,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.814369153801367,55.45684845678187,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.411 , -2 48.862</description></Placemark>
 		<Placemark>
 			<name>H14</name>
 			<LookAt>
@@ -1809,7 +1818,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.814799399739724,55.46126828185534,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.676 , -2 48.888</description></Placemark>
 		<Placemark>
 			<name>H15</name>
 			<LookAt>
@@ -1826,7 +1835,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.817644252993683,55.46392875658285,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.836 , -2 49.059</description></Placemark>
 		<Placemark>
 			<name>H16</name>
 			<LookAt>
@@ -1843,7 +1852,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.819541024660025,55.46595331998999,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 27.957 , -2 49.172</description></Placemark>
 		<Placemark>
 			<name>H17</name>
 			<LookAt>
@@ -1860,7 +1869,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.826040796936527,55.46802011984547,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.081 , -2 49.562</description></Placemark>
 		<Placemark>
 			<name>H18</name>
 			<LookAt>
@@ -1877,7 +1886,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.829547273676265,55.4690891352576,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.145 , -2 49.773</description></Placemark>
 		<Placemark>
 			<name>H19</name>
 			<LookAt>
@@ -1894,7 +1903,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.833967081115123,55.47082557540978,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.25 , -2 50.038</description></Placemark>
 		<Placemark>
 			<name>H20</name>
 			<LookAt>
@@ -1911,7 +1920,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.839671824279981,55.47543588741919,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.526 , -2 50.38</description></Placemark>
 		<Placemark>
 			<name>H21</name>
 			<LookAt>
@@ -1928,7 +1937,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.842267645066613,55.47706229133259,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.624 , -2 50.536</description></Placemark>
 		<Placemark>
 			<name>H22</name>
 			<LookAt>
@@ -1945,7 +1954,7 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.844768035597747,55.47774594399909,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.665 , -2 50.686</description></Placemark>
 		<Placemark>
 			<name>H23</name>
 			<LookAt>
@@ -1962,12 +1971,13 @@ the single track road,</description>
 			<Point>
 				<coordinates>-2.849009672621054,55.48024880552516,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 28.815 , -2 50.941</description></Placemark>
 		<Placemark>
 			<name>H24</name>
 			<description>After 80 metres, turn left over a stile. You are
 now on what is known as the Thief Road that
-takes you along the left side of the field.</description>
+takes you along the left side of the field.
+55 28.861 , -2 50.955</description>
 			<LookAt>
 				<longitude>-2.84897429240156</longitude>
 				<latitude>55.48105868932467</latitude>
@@ -1988,7 +1998,8 @@ takes you along the left side of the field.</description>
 			<description>Pass
 over a ladder stile onto the golf course. Please
 give way to any golfers in play and beware of
-any golf balls in flight.</description>
+any golf balls in flight.
+55 28.917 , -2 51.11</description>
 			<LookAt>
 				<longitude>-2.8519345791776</longitude>
 				<latitude>55.48236313462837</latitude>
@@ -2009,7 +2020,8 @@ any golf balls in flight.</description>
 			<description>Follow the waymarked
 route which will take you across a bridge on the
 left that crosses the burn and across to the other
-side of the course.</description>
+side of the course.
+55 28.898 , -2 51.174</description>
 			<LookAt>
 				<longitude>-2.852450954124791</longitude>
 				<latitude>55.48204619861454</latitude>
@@ -2030,7 +2042,8 @@ side of the course.</description>
 			<description>Turn left here, and follow the
 track that runs parallel with the fence and then
 the wall, on your right. There may be a diversion
-in place here which will be waymarked.</description>
+in place here which will be waymarked.
+55 28.962 , -2 51.22</description>
 			<LookAt>
 				<longitude>-2.853199103632597</longitude>
 				<latitude>55.48238184509181</latitude>
@@ -2050,7 +2063,8 @@ in place here which will be waymarked.</description>
 			<name>H28</name>
 			<description>follow the
 track that runs parallel with the fence and then
-the wall, on your right.</description>
+the wall, on your right.
+55 29.119 , -2 51.637</description>
 			<LookAt>
 				<longitude>-2.861162850313632</longitude>
 				<latitude>55.48542047139348</latitude>
@@ -2082,13 +2096,14 @@ the wall, on your right.</description>
 			<Point>
 				<coordinates>-2.860955197636539,55.48706024010809,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 29.224 , -2 51.657</description></Placemark>
 		<Placemark>
 			<name>H30</name>
 			<description>On reaching the small
 wood at the top of the hill, carry straight on for
 a short distance, again keeping the fence on the
-right, until you reach a second track.</description>
+right, until you reach a second track.
+55 29.323 , -2 51.748</description>
 			<LookAt>
 				<longitude>-2.862767225211377</longitude>
 				<latitude>55.48957658689943</latitude>
@@ -2108,7 +2123,8 @@ right, until you reach a second track.</description>
 			<name>H31</name>
 			<description>Turn right
 onto this track and continue to the gateway that
-leads onto the minor road at Wollrig.</description>
+leads onto the minor road at Wollrig.
+55 29.41 , -2 51.824</description>
 			<LookAt>
 				<longitude>-2.864160724455573</longitude>
 				<latitude>55.49086960488084</latitude>
@@ -2128,7 +2144,8 @@ leads onto the minor road at Wollrig.</description>
 			<name>H32</name>
 			<description>Cross
 the stile, turn left onto this road and continue
-for 2km, climbing steadily.</description>
+for 2km, climbing steadily.
+55 29.644 , -2 51.93</description>
 			<LookAt>
 				<longitude>-2.865488113472775</longitude>
 				<latitude>55.49402452520015</latitude>
@@ -2160,7 +2177,7 @@ for 2km, climbing steadily.</description>
 			<Point>
 				<coordinates>-2.883326471505262,55.50209264203409,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 30.126 , -2 53</description></Placemark>
 		<Placemark>
 			<name>H34</name>
 			<description>The top of this road
@@ -2169,7 +2186,8 @@ at 337m/ 1105ft. There is an extensive view
 looking back, with the Cheviot Hills clearly
 visible in good conditions. Turn right into the
 parking area at Hartwoodmyres and follow
-the forest track straight ahead for about 1km.</description>
+the forest track straight ahead for about 1km.
+55 30.369 , -2 53.394</description>
 			<LookAt>
 				<longitude>-2.890096239516954</longitude>
 				<latitude>55.50600814206973</latitude>
@@ -2189,7 +2207,8 @@ the forest track straight ahead for about 1km.</description>
 			<name>H35</name>
 			<description>Follow this road as it continues downhill, first
 swinging to the left and then to the right as it
-does so.</description>
+does so.
+55 30.666 , -2 52.874</description>
 			<LookAt>
 				<longitude>-2.882143533928948</longitude>
 				<latitude>55.50754751306471</latitude>
@@ -2209,7 +2228,8 @@ does so.</description>
 			<name>H36</name>
 			<description>Follow this road as it continues downhill, first
 swinging to the left and then to the right as it
-does so.</description>
+does so.
+55 30.763 , -2 53.055</description>
 			<LookAt>
 				<longitude>-2.882143533928948</longitude>
 				<latitude>55.50754751306471</latitude>
@@ -2228,7 +2248,8 @@ does so.</description>
 		<Placemark>
 			<name>H37</name>
 			<description>Then take the second forestry road
-on the left.</description>
+on the left.
+55 30.889 , -2 52.958</description>
 			<LookAt>
 				<longitude>-2.883978927398865</longitude>
 				<latitude>55.51619620938379</latitude>
@@ -2248,7 +2269,8 @@ on the left.</description>
 			<name>H38</name>
 			<description>Continue on this road for 400
 metres to where it swings left and drops over
-Middlestead Burn. Turn right as the road rises.</description>
+Middlestead Burn. Turn right as the road rises.
+55 31.008 , -2 53.219</description>
 			<LookAt>
 				<longitude>-2.887037414700097</longitude>
 				<latitude>55.51638058243854</latitude>
@@ -2273,7 +2295,8 @@ between the fence and the wood, to a wall.
 Pass
 through the gap in the wall, cross the stile and
 turn right onto the farm track where you rejoin
-the riding route.</description>
+the riding route.
+55 31.037 , -2 53.249</description>
 			<LookAt>
 				<longitude>-2.887163296041527</longitude>
 				<latitude>55.5171386261366</latitude>
@@ -2292,7 +2315,8 @@ the riding route.</description>
 		<Placemark>
 			<name>H40</name>
 			<description>Go on for approximately 150
-metres and pass through another gate.</description>
+metres and pass through another gate.
+55 31.078 , -2 53.151</description>
 			<LookAt>
 				<longitude>-2.878877777817621</longitude>
 				<latitude>55.52041542353236</latitude>
@@ -2311,7 +2335,8 @@ metres and pass through another gate.</description>
 		<Placemark>
 			<name>H41</name>
 			<description>After
-a further 400 metres you reach a double gate.</description>
+a further 400 metres you reach a double gate.
+55 31.216 , -2 52.863</description>
 			<LookAt>
 				<longitude>-2.878877777817621</longitude>
 				<latitude>55.52041542353236</latitude>
@@ -2333,7 +2358,8 @@ a further 400 metres you reach a double gate.</description>
 wetland area on the right, and then continue
 for approximately 300 metres on the farm track
 that takes you through Middlestead farm
-steading and onto the minor road.</description>
+steading and onto the minor road.
+55 31.539 , -2 52.318</description>
 			<LookAt>
 				<longitude>-2.871878510020753</longitude>
 				<latitude>55.52223236997034</latitude>
@@ -2363,7 +2389,8 @@ may be farm vehicles working here. There may
 also be cows. Keep your dogs on a short lead
 or under close control here.
 
-Turn right onto the road</description>
+Turn right onto the road
+55 31.735 , -2 52.08</description>
 			<LookAt>
 				<longitude>-2.866334373140516</longitude>
 				<latitude>55.52825911121327</latitude>
@@ -2385,7 +2412,8 @@ Turn right onto the road</description>
 right, the road drops downhill. On reaching
 the small lay-by on the right, turn left and cross
 the stile into the field. Follow the right edge of
-the field to the corner.</description>
+the field to the corner.
+55 31.838 , -2 51.052</description>
 			<LookAt>
 				<longitude>-2.851137961268932</longitude>
 				<latitude>55.53041281028686</latitude>
@@ -2411,7 +2439,8 @@ the field to the corner.
 
 Turn left and continue
 to the stile ahead. After crossing the stile and
-the bridge over Hartwood Burn</description>
+the bridge over Hartwood Burn
+55 31.949 , -2 50.874</description>
 			<LookAt>
 				<longitude>-2.847594207164489</longitude>
 				<latitude>55.5323684963065</latitude>
@@ -2434,7 +2463,8 @@ to the stile ahead. After crossing the stile and
 the bridge over Hartwood Burn, turn right
 over a stile along the field edge and over a
 further stile. Continue to follow the field edge
-for 50 metres until a farm track is reached.</description>
+for 50 metres until a farm track is reached.
+55 31.981 , -2 50.905</description>
 			<LookAt>
 				<longitude>-2.848510458020036</longitude>
 				<latitude>55.5330472738936</latitude>
@@ -2456,7 +2486,8 @@ for 50 metres until a farm track is reached.</description>
 for 50 metres until a farm track is reached.
 
 Turn
-left onto this farm track</description>
+left onto this farm track
+55 32.032 , -2 50.823</description>
 			<LookAt>
 				<longitude>-2.846916219388908</longitude>
 				<latitude>55.53378216208984</latitude>
@@ -2488,14 +2519,15 @@ left onto this farm track</description>
 			<Point>
 				<coordinates>-2.848362702654104,55.53655155403922,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.193 , -2 50.902</description></Placemark>
 		<Placemark>
 			<name>H49</name>
 			<description>Turn
 left onto this farm track and in 800 metres;
 follow the track to the left across the field. If
 you look to the right you will see the Haining
-Loch through the trees.</description>
+Loch through the trees.
+55 32.334 , -2 50.666</description>
 			<LookAt>
 				<longitude>-2.844465189755473</longitude>
 				<latitude>55.53883079016537</latitude>
@@ -2517,7 +2549,8 @@ Loch through the trees.</description>
 stone dovecote on the right you reach a stile.
 Follow the path into the wood and turn right
 onto a track that continues past the stable
-buildings on the right.</description>
+buildings on the right.
+55 32.573 , -2 50.866</description>
 			<LookAt>
 				<longitude>-2.847538095543439</longitude>
 				<latitude>55.54287349399954</latitude>
@@ -2536,7 +2569,8 @@ buildings on the right.</description>
 		<Placemark>
 			<name>H51</name>
 			<description>onto a track that continues past the stable
-buildings on the right.</description>
+buildings on the right.
+55 32.604 , -2 50.683</description>
 			<LookAt>
 				<longitude>-2.846254867663034</longitude>
 				<latitude>55.5429616718605</latitude>
@@ -2556,7 +2590,8 @@ buildings on the right.</description>
 			<name>H52</name>
 			<description>The track swings left
 onto the driveway that leads to The Haining
-mansion house, which is visible on the right.</description>
+mansion house, which is visible on the right.
+55 32.626 , -2 50.594</description>
 			<LookAt>
 				<longitude>-2.842118038127176</longitude>
 				<latitude>55.54359525306586</latitude>
@@ -2576,7 +2611,8 @@ mansion house, which is visible on the right.</description>
 			<name>H53</name>
 			<description>Continue down the driveway and pass under
 the arched gateway onto the road at the West
-Port.</description>
+Port.
+55 32.747 , -2 50.683</description>
 			<LookAt>
 				<longitude>-2.844807548806982</longitude>
 				<latitude>55.54589268835954</latitude>
@@ -2595,7 +2631,8 @@ Port.</description>
 		<Placemark>
 			<name>H54</name>
 			<description>Turn right and go uphill into Selkirk’s
-Market Square to end this section of the Way.</description>
+Market Square to end this section of the Way.
+55 32.767 , -2 50.647</description>
 			<LookAt>
 				<longitude>-2.842610116967211</longitude>
 				<latitude>55.54594681038679</latitude>
@@ -2614,7 +2651,8 @@ Market Square to end this section of the Way.</description>
 		<Placemark>
 			<name>H55</name>
 			<description>go uphill into Selkirk’s
-Market Square to end this section of the Way.</description>
+Market Square to end this section of the Way.
+55 32.822 , -2 50.503</description>
 			<LookAt>
 				<longitude>-2.842031568645741</longitude>
 				<latitude>55.54660961530091</latitude>

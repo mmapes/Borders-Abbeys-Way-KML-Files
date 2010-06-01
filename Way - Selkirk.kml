@@ -1029,7 +1029,7 @@
 			<Point>
 				<coordinates>-2.841569604658627,55.54709209381931,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 32.826 , -2 50.494</description></Placemark>
 		<Placemark>
 			<name>S2</name>
 			<description>From Selkirk Market Place head uphill on
@@ -1037,7 +1037,8 @@ the one way street, Kirk Wynd, passing
 on the left hand side a bakers shop
 which proclaims that it is “Home of the
 Selkirk Bannock”. On your right you
-pass the “Kirk ‘o’ the Forest”.</description>
+pass the “Kirk ‘o’ the Forest”.
+55 32.798 , -2 50.468</description>
 			<LookAt>
 				<longitude>-2.840436997805892</longitude>
 				<latitude>55.5468288087114</latitude>
@@ -1059,7 +1060,8 @@ pass the “Kirk ‘o’ the Forest”.</description>
 this road straight on to reach a junction.
 From here continue straight ahead as
 the road dips then rises again through
-an area of houses.</description>
+an area of houses.
+55 32.756 , -2 50.359</description>
 			<LookAt>
 				<longitude>-2.839087426700413</longitude>
 				<latitude>55.54612184173381</latitude>
@@ -1081,7 +1083,8 @@ an area of houses.</description>
 this road straight on to reach a junction.
 From here continue straight ahead as
 the road dips then rises again through
-an area of houses.</description>
+an area of houses.
+55 32.671 , -2 50.194</description>
 			<LookAt>
 				<longitude>-2.83675770075833</longitude>
 				<latitude>55.54445301036768</latitude>
@@ -1103,7 +1106,8 @@ an area of houses.</description>
 this road straight on to reach a junction.
 From here continue straight ahead as
 the road dips then rises again through
-an area of houses.</description>
+an area of houses.
+55 32.598 , -2 50.079</description>
 			<LookAt>
 				<longitude>-2.835376349330607</longitude>
 				<latitude>55.54331894215962</latitude>
@@ -1125,7 +1129,8 @@ an area of houses.</description>
 (A7) at the top of the hill. Take care
 to cross safely, straight over the
 main road, and keep to the left-hand
-pavement.</description>
+pavement.
+55 32.554 , -2 49.945</description>
 			<LookAt>
 				<longitude>-2.832657696726188</longitude>
 				<latitude>55.54234834264059</latitude>
@@ -1143,10 +1148,11 @@ pavement.</description>
 		</Placemark>
 		<Placemark>
 			<name>S7</name>
-			<description>In about 100 metres (it&apos;s 250, actually), just
+			<description>In about 100 metres (it's 250, actually), just
 past a group of houses, turn off the road
 to the left on to Selkirk Hill and follow
-the waymarked path.</description>
+the waymarked path.
+55 32.541 , -2 49.715</description>
 			<LookAt>
 				<longitude>-2.828934129170787</longitude>
 				<latitude>55.54206882034844</latitude>
@@ -1165,7 +1171,8 @@ the waymarked path.</description>
 		<Placemark>
 			<name>S8</name>
 			<description>on to Selkirk Hill and follow
-the waymarked path.</description>
+the waymarked path.
+55 32.895 , -2 49.197</description>
 			<LookAt>
 				<longitude>-2.820240323251579</longitude>
 				<latitude>55.54892269953906</latitude>
@@ -1184,7 +1191,8 @@ the waymarked path.</description>
 		<Placemark>
 			<name>S9</name>
 			<description>Exit the hill at the kissing gate and go
-right along the rough track.</description>
+right along the rough track.
+55 32.943 , -2 49.233</description>
 			<LookAt>
 				<longitude>-2.821675586871711</longitude>
 				<latitude>55.54826679904412</latitude>
@@ -1204,7 +1212,8 @@ right along the rough track.</description>
 			<name>S10</name>
 			<description>At the end
 of the track, pass through the small
-gate and follow onto the farmland.</description>
+gate and follow onto the farmland.
+55 32.976 , -2 49.05</description>
 			<LookAt>
 				<longitude>-2.817967626561386</longitude>
 				<latitude>55.55024965556337</latitude>
@@ -1223,7 +1232,8 @@ gate and follow onto the farmland.</description>
 		<Placemark>
 			<name>S11</name>
 			<description>This old track is lined by hawthorn and
-skirts the edge of Bell Hill.</description>
+skirts the edge of Bell Hill.
+55 33.095 , -2 49.006</description>
 			<LookAt>
 				<longitude>-2.817300581100819</longitude>
 				<latitude>55.55127645091294</latitude>
@@ -1244,7 +1254,8 @@ skirts the edge of Bell Hill.</description>
 			<description>Before
 Greenhead Farm, go through a small
 gate as directed on the left and follow
-the field edge to the top</description>
+the field edge to the top
+55 33.328 , -2 48.689</description>
 			<LookAt>
 				<longitude>-2.810787823093276</longitude>
 				<latitude>55.55522834386706</latitude>
@@ -1268,7 +1279,8 @@ the hills overlooking the Yarrow Valley.
 
 Follow the waymarks around the field
 edges until you reach a minor road near
-Shawmount.</description>
+Shawmount.
+55 33.47 , -2 48.827</description>
 			<LookAt>
 				<longitude>-2.814659197513925</longitude>
 				<latitude>55.55807214513986</latitude>
@@ -1287,7 +1299,8 @@ Shawmount.</description>
 		<Placemark>
 			<name>S14</name>
 			<description>Go right here and follow the road
-uphill</description>
+uphill
+55 33.481 , -2 48.792</description>
 			<LookAt>
 				<longitude>-2.811588940007662</longitude>
 				<latitude>55.55771016466574</latitude>
@@ -1309,7 +1322,8 @@ uphill</description>
 and gate on the left-hand side. Go
 left through the gate and keeping to
 the right, head down the track behind
-the stables.</description>
+the stables.
+55 33.512 , -2 47.516</description>
 			<LookAt>
 				<longitude>-2.79703262094958</longitude>
 				<latitude>55.55831004021673</latitude>
@@ -1329,7 +1343,8 @@ the stables.</description>
 			<name>S16</name>
 			<description>This area is known locally as
 ‘Halfcrown Corner’. Cross the road
-and head forward on to the track.</description>
+and head forward on to the track.
+55 33.629 , -2 47.419</description>
 			<LookAt>
 				<longitude>-2.786802952859109</longitude>
 				<latitude>55.56306429343795</latitude>
@@ -1353,7 +1368,8 @@ cattle from Scotland to the markets in
 England. Continue through a series
 of gates keeping the dyke on your
 right over Whitelaw Kips and on to
-Faldonside Moor.</description>
+Faldonside Moor.
+55 34.131 , -2 46.826</description>
 			<LookAt>
 				<longitude>-2.783383094694294</longitude>
 				<latitude>55.5693818711517</latitude>
@@ -1374,7 +1390,8 @@ Faldonside Moor.</description>
 			<description>on to
 Faldonside Moor. Pass through
 a sheep handling area and follow
-the track up</description>
+the track up
+55 34.643 , -2 46.99</description>
 			<LookAt>
 				<longitude>-2.783830895342227</longitude>
 				<latitude>55.57892470055423</latitude>
@@ -1393,7 +1410,8 @@ the track up</description>
 		<Placemark>
 			<name>S19</name>
 			<description>up before turning right to
-Cauldshiels Loch.</description>
+Cauldshiels Loch.
+55 35.001 , -2 46.779</description>
 			<LookAt>
 				<longitude>-2.782526985930523</longitude>
 				<latitude>55.58098475865969</latitude>
@@ -1413,7 +1431,8 @@ Cauldshiels Loch.</description>
 			<name>S20</name>
 			<description>From Cauldshiels Loch leave the
 loch through the car park and follow
-the track down to the road</description>
+the track down to the road
+55 35.097 , -2 46.579</description>
 			<LookAt>
 				<longitude>-2.777161921049985</longitude>
 				<latitude>55.58479867595496</latitude>
@@ -1432,7 +1451,8 @@ the track down to the road</description>
 		<Placemark>
 			<name>S21</name>
 			<description>down to the road where you
-turn right.</description>
+turn right.
+55 35.297 , -2 46.638</description>
 			<LookAt>
 				<longitude>-2.777010718723316</longitude>
 				<latitude>55.58696700630231</latitude>
@@ -1452,7 +1472,8 @@ turn right.</description>
 			<name>S22</name>
 			<description>Notice the excellent views
 to the Eildon Hills here. Take the next
-left</description>
+left
+55 35.448 , -2 46.074</description>
 			<LookAt>
 				<longitude>-2.772310882079414</longitude>
 				<latitude>55.59141150030212</latitude>
@@ -1470,7 +1491,8 @@ left</description>
 		</Placemark>
 		<Placemark>
 			<name>S23</name>
-			<description>and continue</description>
+			<description>and continue
+55 35.64 , -2 46.237</description>
 			<LookAt>
 				<longitude>-2.79059282771595</longitude>
 				<latitude>55.60168636325725</latitude>
@@ -1491,7 +1513,8 @@ left</description>
 			<description>until you reach the
 T-junction. Go left here and follow
 the minor road down to the car park
-at Abbotsford.</description>
+at Abbotsford.
+55 35.765 , -2 46.355</description>
 			<LookAt>
 				<longitude>-2.773049780545716</longitude>
 				<latitude>55.59371681443707</latitude>
@@ -1510,7 +1533,8 @@ at Abbotsford.</description>
 		<Placemark>
 			<name>S25</name>
 			<description>Head straight across
-the road on to the track</description>
+the road on to the track
+55 36.003 , -2 46.719</description>
 			<LookAt>
 				<longitude>-2.778813490715394</longitude>
 				<latitude>55.60007576954944</latitude>
@@ -1529,7 +1553,8 @@ the road on to the track</description>
 		<Placemark>
 			<name>S26</name>
 			<description>on to the track which leads
-to the ford across the River Tweed.</description>
+to the ford across the River Tweed.
+55 36.133 , -2 46.861</description>
 			<LookAt>
 				<longitude>-2.780078145627925</longitude>
 				<latitude>55.60160446684861</latitude>
@@ -1551,7 +1576,8 @@ to the ford across the River Tweed.</description>
 the wide track to your right leading
 to the road bridge. Pass under the
 bridge and continue along the path
-by the Tweed</description>
+by the Tweed
+55 36.184 , -2 46.77</description>
 			<LookAt>
 				<longitude>-2.779705372972222</longitude>
 				<latitude>55.60321826331347</latitude>
@@ -1574,7 +1600,8 @@ by the Tweed until you reach the
 Redbridge Viaduct.
 
 Pass under the viaduct and continue
-along the river path.</description>
+along the river path.
+55 36.512 , -2 46.179</description>
 			<LookAt>
 				<longitude>-2.769550544362733</longitude>
 				<latitude>55.60819420386211</latitude>
@@ -1595,7 +1622,8 @@ along the river path.</description>
 			<description>The path
 continues in front of Lowood House
 and then through some woodland
-</description>
+
+55 36.6 , -2 45.775</description>
 			<LookAt>
 				<longitude>-2.759849916908661</longitude>
 				<latitude>55.60959320933235</latitude>
@@ -1627,7 +1655,7 @@ and then through some woodland
 			<Point>
 				<coordinates>-2.754640438212999,55.60865283500178,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 36.519 , -2 45.278</description></Placemark>
 		<Placemark>
 			<name>S31</name>
 			<description>through some woodland
@@ -1636,7 +1664,8 @@ to exit onto a drive
 Go left here
 and cross the main road at the end
 of the drive. Head uphill on the
-pavement</description>
+pavement
+55 36.267 , -2 45.019</description>
 			<LookAt>
 				<longitude>-2.750539808033313</longitude>
 				<latitude>55.60466609634954</latitude>
@@ -1657,7 +1686,8 @@ pavement</description>
 			<description>then turn left over the
 stile following the river path, now
 shared with the Southern Upland
-Way.</description>
+Way.
+55 36.247 , -2 44.923</description>
 			<LookAt>
 				<longitude>-2.748945253448592</longitude>
 				<latitude>55.60412731446697</latitude>
@@ -1680,7 +1710,8 @@ riverside meadow passing the back
 of the Waverley Castle Hotel built on
 Skirmish Hill, the site of the last clan
 battle to be fought in the Borders in
-1526.</description>
+1526.
+55 36.321 , -2 44.441</description>
 			<LookAt>
 				<longitude>-2.741437213092971</longitude>
 				<latitude>55.6043874018605</latitude>
@@ -1702,7 +1733,8 @@ battle to be fought in the Borders in
 from the river through the lade to the
 Abbey Mill, continue on the riverside
 path to the Chain Bridge, then go
-straight on</description>
+straight on
+55 36.127 , -2 43.492</description>
 			<LookAt>
 				<longitude>-2.724804617691214</longitude>
 				<latitude>55.60229873396371</latitude>
@@ -1722,7 +1754,8 @@ straight on</description>
 			<name>S35</name>
 			<description>and turn right onto the
 road which leads up to Melrose
-Abbey.</description>
+Abbey.
+55 36.117 , -2 43.073</description>
 			<LookAt>
 				<longitude>-2.717769071073349</longitude>
 				<latitude>55.60180826480382</latitude>
@@ -1754,7 +1787,7 @@ Abbey.</description>
 			<Point>
 				<coordinates>-2.717627207507775,55.59881064250769,0</coordinates>
 			</Point>
-		</Placemark>
+		<description>55 35.929 , -2 43.058</description></Placemark>
 	</Folder>
 </Document>
 </kml>
